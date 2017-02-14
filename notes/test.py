@@ -1,2 +1,7 @@
 #!/usr/bin/env python
-print ('a')
+#import sys
+print ('haha:')
+#for i in sys.argv:
+#    print(i)
+def tt():
+    print('tt')
